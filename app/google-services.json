@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198741030536",
+    "firebase_url": "https://propershop-4a792-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "propershop-4a792",
+    "storage_bucket": "propershop-4a792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198741030536:android:5e93ad143181233e53913d",
+        "android_client_info": {
+          "package_name": "ru.propershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198741030536-tmcm064bccumpts68q8265fmoe1aq52i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.propershop",
+            "certificate_hash": "af97d664eeee8bdef2d0287f5115db74e257873d"
+          }
+        },
+        {
+          "client_id": "198741030536-ebhcij0kmvfvedccgef7jh72l5fac0v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3DyNsuQUAYCd_lbvQUAu-9JzWJ8eB-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198741030536-ebhcij0kmvfvedccgef7jh72l5fac0v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
